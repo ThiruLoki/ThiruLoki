@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Thirumurugan
+# Hello! 👋 I'm Thirumurugan
 
 I'm an ambitious problem solver with a deep-rooted passion for robotics and a keen interest in the transformative power of Artificial Intelligence. With a focus on leveraging the capabilities of the Robot Operating System (ROS), I aspire to develop innovative solutions that push the boundaries of what's possible in robotics.
 
