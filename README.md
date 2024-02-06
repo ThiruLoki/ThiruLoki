@@ -18,7 +18,7 @@ I'm an ambitious problem solver with a deep-rooted passion for robotics and a ke
 
 - 📧 **Email:** thiru.iaf007@gmail.com
 - 🔗 **LinkedIn:** [ThiruLoki]
-- 🐙 **GitHub:** [ThiruLoki]
+- 🐙 **GitHub:** https://github.com/ThiruLoki/ThiruLoki
 
 Thank you for stopping by my profile! Let's harness the power of robotics and AI to make a difference.
 
